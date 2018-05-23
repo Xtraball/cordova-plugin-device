@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-device",
+  "name": "Device",
   "version": "2.0.2",
-  "description": "Cordova Device Plugin",
+  "description": "Cordova Device",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-device",
+    "id": "Device",
     "platforms": [
       "android",
       "ios",
